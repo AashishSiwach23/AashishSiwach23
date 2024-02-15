@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw1Urs4RGddYg2rTcyMyWZLR&ust=1708116189270000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCBovSaroQDFQAAAAAdAAAAABAO" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishsiwach23&label=Profile%20views&color=0e75b6&style=flat" alt="aashishsiwach23" /> </p>
 
 - 📫 How to reach me **aashishsiwach23@gmail.com**
