@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE1cWtzcDl3eWVmbzk2bmU2aGlpN2tleHFlMmpqaTkwMnM3dWZiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="350">
+<img align="right" alt="GIF" src="https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishsiwach23&label=Profile%20views&color=0e75b6&style=flat" alt="aashishsiwach23" /> </p>
 
