@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aashishsiwach23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1EQr5WExoj2x9JyAK2JzouV1IISs0sWMl?usp=drive_link](https://drive.google.com/drive/folders/1EQr5WExoj2x9JyAK2JzouV1IISs0sWMl?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1EQr5WExoj2x9JyAK2JzouV1IISs0sWMl?usp=drive_link](https://shorturl.at/mCKRW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
