@@ -29,7 +29,7 @@
 
 
 
-These are my Badges that I earned in Hacktoberfest2023 for successfully contributing in multiple opensource Projects. 
+These are my Badges that I earned in Hacktoberfest for successfully contributing in multiple opensource Projects. 
 😀
 
 
