@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aashishsiwach23@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/mCKRW](https://shorturl.at/mCKRW)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
