@@ -19,44 +19,43 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### 🛠 Languages & Tools
-
 <p align="left">
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 
   <!-- SQL (MySQL) -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
   <!-- Microsoft SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
   </a>
 
   <!-- Apache Superset -->
-  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://logo.svgcdn.com/l/apache-superset.png" alt="Apache Superset" width="40" height="40"/>
   </a>
 
   <!-- Apache Airflow -->
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="Apache Airflow" width="40" height="40"/>
   </a>
 
   <!-- AWS Glue -->
-  <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://logo.svgcdn.com/l/aws-glue.png" alt="AWS Glue" width="40" height="40"/>
   </a>
 
   <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://logo.svgcdn.com/l/microsoft-power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishsiwach23&show_icons=true&locale=en" alt="aashishsiwach23" /></p>
