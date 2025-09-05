@@ -1,6 +1,6 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">An Experienced Business Intelligence Analytics Engineer from India</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ2dmsxZnVnYnFiamYzOXZwamtkbTlmaDJqejAzaTRub3Z0NzEwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="350">
 
