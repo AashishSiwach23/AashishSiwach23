@@ -19,10 +19,45 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <!-- Python --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!-- SQL (MySQL) --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- Microsoft SQL Server --> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <!-- Apache Superset --> <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/49699333?s=200&v=4" alt="apache-superset" width="40" height="40"/> </a> <!-- Apache Airflow --> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="apache-airflow" width="40" height="40"/> </a> <!-- AWS Glue --> <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aws-samples/aws-glue-samples/master/images/AWS-Glue.png" alt="aws-glue" width="40" height="40"/> </a> <!-- Power BI --> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/power-bi-logo-999CA0B1CA-seeklogo.com.png" alt="power-bi" width="40" height="40"/> </a> </p>
+### 🛠 Languages & Tools
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishsiwach23&show_icons=true&locale=en&layout=compact" alt="Top Langs" /> </p> <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishsiwach23&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishsiwach23" alt="GitHub Streak" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishsiwach23&show_icons=true&locale=en&layout=compact" alt="aashishsiwach23" /></p>
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+
+  <!-- SQL (MySQL) -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+
+  <!-- Microsoft SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+
+  <!-- Apache Superset -->
+  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://logo.svgcdn.com/l/apache-superset.png" alt="Apache Superset" width="40" height="40"/>
+  </a>
+
+  <!-- Apache Airflow -->
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="Apache Airflow" width="40" height="40"/>
+  </a>
+
+  <!-- AWS Glue -->
+  <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer">
+    <img src="https://logo.svgcdn.com/l/aws-glue.png" alt="AWS Glue" width="40" height="40"/>
+  </a>
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://logo.svgcdn.com/l/microsoft-power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishsiwach23&show_icons=true&locale=en" alt="aashishsiwach23" /></p>
 
